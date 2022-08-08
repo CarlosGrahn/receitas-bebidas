@@ -1,5 +1,6 @@
-INGREDIENTES
-2 litros de vinho tinto suave
+# INGREDIENTES
+
+## 2 litros de vinho tinto suave
 1 copo de água (200 ml)
 1/2 copo de cachaça
 1 e 1/2 copo de açúcar
