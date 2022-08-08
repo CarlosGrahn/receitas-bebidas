@@ -8,9 +8,9 @@
 - 12 cravos (ou a gosto)
 - 8 rodelinhas de gengibre (ou a gosto)
 
-# MODO DE PREPARO
+## MODO DE PREPARO
 
-1. Misture todos os ingredientes ao fogo em uma panela.
+1.Misture todos os ingredientes ao fogo em uma panela.
 
 2.Depois que levantar fervura, deixe por mais 10 minutos.
 
@@ -18,7 +18,7 @@
 
 4.Tomar a bebida quente.
 
-## INFORMAÇÕES ADICIONAIS
+### INFORMAÇÕES ADICIONAIS
 
 O quentão é uma bebida típica dos meses mais frios e, principalmente, das festas juninas! Por isso, essa receita de quentão pode ser uma das muitas do seu cardápio inspirado nesse tema. Confira essa lista maravilhosa do blog com alguns pratos de festa junina para você de deliciar. 
 
