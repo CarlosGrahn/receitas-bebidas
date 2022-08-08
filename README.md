@@ -1,2 +1,2 @@
 # receitas-bebidas
-repositório com alguma receita de bebida
+repositório com alguma receita de bebida.
