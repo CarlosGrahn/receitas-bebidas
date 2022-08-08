@@ -10,13 +10,13 @@
 
 ## MODO DE PREPARO
 
-1.Misture todos os ingredientes ao fogo em uma panela.
+1. Misture todos os ingredientes ao fogo em uma panela.
 
-2.Depois que levantar fervura, deixe por mais 10 minutos.
+2. Depois que levantar fervura, deixe por mais 10 minutos.
 
-3.Está pronto é só servir.
+3. Está pronto é só servir.
 
-4.Tomar a bebida quente.
+4. Tomar a bebida quente.
 
 ### INFORMAÇÕES ADICIONAIS
 
